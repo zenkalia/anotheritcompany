@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: anotheritcompany_development
   pool: 5
-  username: anotheritcompany
+  username: <%= ENV['USER'] %>
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
