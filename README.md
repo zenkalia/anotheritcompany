@@ -1,4 +1,4 @@
-anotheritcompany
+anotherITcompany
 ================
 
 Bitter Twootstrap
