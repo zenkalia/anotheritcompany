@@ -21,3 +21,9 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+div#video_holder {
+  float: left;
+  padding-left: 20px;
+  padding-top: 20px;
+}
